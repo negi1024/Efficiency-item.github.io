@@ -1,0 +1,34 @@
+.midashi1{
+	font-weight:900;
+  background: repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 2px,#e9f4ff 2px, #e9f4ff 4px);
+  text-align: center;
+  border-left: solid 9px #7db4e6;
+  border-right: solid 9px #7db4e6;
+	color: lightblue;
+  padding: 0.0em 0;
+  border-top: solid 6px #364e96;
+  border-bottom: solid 6px #364e96;
+	font-size:24px;
+	font-family:monospace;
+}
+.manifest_link{
+	list-style: none;
+  border-left: solid 9px #7db4e6;
+  border-bottom: dashed 4px #364e96;
+	font-weight:600;
+	font-family:sans-serif;
+	color: darkgreen;
+  z-index: 1;
+　height: 94px;
+  position: absolute;
+  top: 170px;
+  background-color: lightblue;
+  width: 25%;
+  text-align: center;
+}
+.setumei1{
+	position: relative;
+	top: 24px;
+	font-family: monospace;
+	font-size: 32px
+}
